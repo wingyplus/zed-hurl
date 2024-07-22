@@ -1,0 +1,5 @@
+# Zed generated files
+/grammars
+
+# For testing
+/test.hurl
